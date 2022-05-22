@@ -1,10 +1,10 @@
 {
 	"name": "ui-lib",
 	"displayName": "[#00aaff]UI Lib[]",
-	"author": "deltanedas",
+	"author": "prob works",
 	"description": "Library for other mods that unifies and simplifies UI creation.",
 	"version": "3.16.6",
 	"hidden": true,
-	"minGameVersion": 136,
+	"minGameVersion": 126.2,
 	"repo": "deltanedas/ui-lib"
 }
